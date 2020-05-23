@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104395222018",
+    "firebase_url": "https://mltd-database-02.firebaseio.com",
+    "project_id": "mltd-database-02",
+    "storage_bucket": "mltd-database-02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104395222018:android:4363e8ee2dbffd6372cb1b",
+        "android_client_info": {
+          "package_name": "com.dthdanh.mltd_db"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104395222018-rsajk9fgks4ajjbq8mdno4ulolbreohc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dthdanh.mltd_db",
+            "certificate_hash": "e12f952c4a74c2cf73d1128e4cfb7f303c6142c2"
+          }
+        },
+        {
+          "client_id": "104395222018-k96cqkkd42o0aq5gcl2tokq0ufisdfqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedKG-0k1_rukUXKQT0fCcGz7Ei9uu_W8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104395222018-k96cqkkd42o0aq5gcl2tokq0ufisdfqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
